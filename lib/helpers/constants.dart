@@ -1,7 +1,7 @@
 import 'package:chat_app/models/user_model.dart';
 
 // const baseUrl = "https://carsa.urapp.site";
-const baseUrl = "https://ae13-156-207-119-88.ngrok.io";
+const baseUrl = "https://e4ef-156-207-21-153.ngrok.io";
 
 const baseurlImage = baseUrl+"/images/";
 
